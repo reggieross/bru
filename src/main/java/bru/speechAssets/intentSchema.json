@@ -1,0 +1,17 @@
+{
+  "intents" :[
+    {
+      "intent": "instruction",
+      "slots": [
+        {
+          "name": "bean",
+          "type": "LIST_OF_BEAN_TYPES"
+        },
+        {
+          "name": "brew",
+          "type": "LIST_OF_BREW_TYPES"
+        }
+      ]
+    }
+  ]
+}

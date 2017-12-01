@@ -1,0 +1,4 @@
+specs make a {brew}
+specs make a {brew} with {bean}
+specs make a {brew} using a {bean}
+specs make a {bean} using {brew}
